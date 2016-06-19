@@ -6,4 +6,4 @@ Bash script for installing Dogecoin
 
 3. Running the script ./Dogecoin.sh
 
-
+if you wish to tip me this is my address 1E6F7MHwz7fdhikKFSnyCd6ZJ5e8h6nWZF
